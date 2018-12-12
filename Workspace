@@ -1,0 +1,20 @@
+{
+  "projectId": "1tw36wF6glo5-UcVkgDitPIfNYdrzQt4l",
+  "htmlFiles": [
+    {
+      "fileId": "1O-g6fJdT4wqb7ewPxjDQWw2GfjBzGV2d",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "1tw36wF6glo5-UcVkgDitPIfNYdrzQt4l"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "1QUWWIk67aRgJB8B5vNfEoB73NrJxUCJ_",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "1tw36wF6glo5-UcVkgDitPIfNYdrzQt4l"
+    }
+  ],
+  "javascriptFiles": []
+}
